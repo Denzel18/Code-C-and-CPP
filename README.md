@@ -3,7 +3,7 @@ Codici elementari di C, Ordinamento Vettori ... Struct e Liste.
 Questi codici sono stati realizzati come passatempo in seguito a richieste pervenuti da amici in collaborazioni con loro 
 
 ## Badges
-LICENZA - [![License](https://img.shields.io/github/license/italia/bootstrap-italia.svg)](https://github.com/italia/bootstrap-italia/blob/master/LICENSE) 
+[![License](https://img.shields.io/github/license/italia/bootstrap-italia.svg)](https://github.com/italia/bootstrap-italia/blob/master/LICENSE) 
 
 ### Annunci / Status del progetto
 Questi codici sono esempi facoltativi di programmazione basilare in linguaggio ***C++*** 
