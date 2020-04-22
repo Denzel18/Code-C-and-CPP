@@ -8,6 +8,9 @@ Questi codici sono stati realizzati come passatempo in seguito a richieste perve
 ### Annunci / Status del progetto
 Questi codici sono esempi facoltativi di programmazione basilare in linguaggio ***C++*** 
 
+## Documenti
+* Gestione Aerei - Esempio di Union in C++
+
 # Benvenuti
 ![Ciao Mondo, Benvenuto](1.png)
 ![(Esecuzione) Ciao Mondo, Benvenuto](2.png)
