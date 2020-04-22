@@ -10,6 +10,7 @@ Questi codici sono esempi facoltativi di programmazione basilare in linguaggio *
 
 ## Documenti
 * Gestione Aerei - Esempio di Union in C++
+* Prodotto Prezzo - Esempio di gestione di array e ordinamento di array (bubbleSort,...) 
 
 # Benvenuti
 ![Ciao Mondo, Benvenuto](1.png)
