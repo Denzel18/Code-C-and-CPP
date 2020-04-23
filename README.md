@@ -10,7 +10,10 @@ Questi codici sono esempi facoltativi di programmazione basilare in linguaggio *
 
 ## Documenti
 * Gestione Aerei - Esempio di Union in C++
-* Prodotto Prezzo - Esempio di gestione di array e ordinamento di array (bubbleSort,...) 
+* Prodotto Prezzo - Esempio di gestione di array e ordinamento di array (bubbleSort,...)
+* file_binari_struct - Esempio di gestione struct, lettura e scrittura su file txt 
+* file_binari - Esempio di gestione liste, lettura e scrittura su file txt 
+* struct-libreria - Esempio di gestione struct, lettura e scrittura su file binario
 
 # Benvenuti
 ![Ciao Mondo, Benvenuto](1.png)
