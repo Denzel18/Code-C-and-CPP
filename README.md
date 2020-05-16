@@ -16,6 +16,7 @@ Questi codici sono esempi facoltativi di programmazione basilare in linguaggio *
 * struct-libreria - Esempio di gestione struct, lettura e scrittura su file binario
 * ricorrenze - Elimina le ricorrenze in un vettore creandone uno secondario
 * alterna - Dati due vettori di medesima dimensione crea un terzo vettore popolandolo in maniera alternata
+* menu - costruzione e implementazione elementare di un menu in C 
 
 # Benvenuti
 ![Ciao Mondo, Benvenuto](1.png)
