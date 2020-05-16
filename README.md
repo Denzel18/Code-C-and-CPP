@@ -14,7 +14,8 @@ Questi codici sono esempi facoltativi di programmazione basilare in linguaggio *
 * file_binari_struct - Esempio di gestione struct, lettura e scrittura su file txt 
 * file_binari - Esempio di gestione liste, lettura e scrittura su file txt 
 * struct-libreria - Esempio di gestione struct, lettura e scrittura su file binario
-* ricorrenze - elimina le ricorrenza in un vettore creandone uno secondario
+* ricorrenze - Elimina le ricorrenze in un vettore creandone uno secondario
+* alterna - Dati due vettori di medesima dimensione crea un terzo vettore popolandolo in maniera alternata
 
 # Benvenuti
 ![Ciao Mondo, Benvenuto](1.png)
